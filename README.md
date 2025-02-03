@@ -1,2 +1,2 @@
 # Code
-This repository contains code that I plan to reuse, whether it be an algorithm, data structure, cryptographic framework, the base of a website, etc. etc.
+This repository contains code that I don't really know where to put or think is big enough for its own repo.
